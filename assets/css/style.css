@@ -86,17 +86,9 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/*Combine sidebar article Styling*/
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefits article{
     margin-bottom: 32px;
     color: #ffffff;
 }
