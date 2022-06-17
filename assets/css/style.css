@@ -134,6 +134,17 @@ p {
     max-width: 150px;
 }
 
+.content article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/*Combine Main Article Styling*/
+/*
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +171,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+*/
 /*Combined Article Image Modification*/
 
 .content img{
