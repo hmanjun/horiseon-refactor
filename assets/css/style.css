@@ -86,27 +86,19 @@ p {
     background-color: #2589bd;
 }
 
-/*Combine sidebar article Styling*/
+/*Combine sidebar article styling*/
 
 .benefits article{
     margin-bottom: 32px;
     color: #ffffff;
 }
+/*Combine sidebar heading styling*/
 
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 .benefit-lead img {
     display: block;
