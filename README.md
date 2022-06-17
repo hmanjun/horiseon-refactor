@@ -10,8 +10,8 @@ This project is my first application of basic HTML and CSS knowledge. It serves 
 ## Specific Changes Made
 
 Changes made include:
-- Switching <div> tags to appropriate semantic tags
-    - Use of <header>, <nav>, <main>, <article>, <asside>, and <footer> tags
+- Switching div tags to appropriate semantic tags
+    - Use of header, nav, main, article, asside, and footer tags
 - Modifying style sheet "style.css" to use new semantic sections
 - Removing old classes that are now unused
 - Fixing navigation anchors to properly link to correct sections
@@ -19,7 +19,7 @@ Changes made include:
 
 ## Deployed Site
 ![Website Screen Shot Pt.1](./assets/images/Webss1.PNG)
-![Website Screen Shot Pt.2](./assets/images/Webss1.PNG)
+![Website Screen Shot Pt.2](./assets/images/Webss2.PNG)
 
 ### Deployed Site Link
 [Refactored Horiseon Site](https://hmanjun.github.io/horiseon-refactor/)
