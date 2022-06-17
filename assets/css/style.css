@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -108,7 +108,7 @@ aside img {
 
 
 /*Combine Main Article Styling*/
-.content article {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,13 +119,13 @@ aside img {
 
 /*Combined Article Image Modification*/
 
-.content img{
+main img{
     max-height: 200px; 
 }
 
 
 /*Combined Article Heading Modifiers*/
-.content h2{
+main h2{
     margin-bottom: 20px;
     font-size: 36px;
 } 
